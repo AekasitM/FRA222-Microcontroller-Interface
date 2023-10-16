@@ -1,0 +1,10 @@
+11:00:01 **** Incremental Build of configuration Debug for project Week 1 Blink with delay ****
+make -j16 all 
+arm-none-eabi-size   Week\ 1\ Blink\ with\ delay.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7756	     20	   1636	   9412	   24c4	Week 1 Blink with delay.elf
+Finished building: default.size.stdout
+ 
+
+11:00:02 Build Finished. 0 errors, 0 warnings. (took 863ms)
+

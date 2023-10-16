@@ -1,0 +1,10 @@
+19:04:43 **** Build of configuration Debug for project FRA262-G6 ****
+make -j16 all 
+arm-none-eabi-size   FRA262-G6.elf 
+   text	   data	    bss	    dec	    hex	filename
+  80276	   1048	   8720	  90044	  15fbc	FRA262-G6.elf
+Finished building: default.size.stdout
+ 
+
+19:04:44 Build Finished. 0 errors, 0 warnings. (took 1s.304ms)
+

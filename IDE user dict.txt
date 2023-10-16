@@ -1,0 +1,6 @@
+heartbeat
+modbus
+config
+setpoint
+celius
+celsius
